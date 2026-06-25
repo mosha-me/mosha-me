@@ -1,21 +1,41 @@
-# Hi there, I'm MOSHA ME! 👋
+# 👋 Hi, I'm MOSHA ME
 
-### 🤖 AI Automation Enthusiast & Python Learner
-I am currently learning Python and exploring the world of AI Automation. I believe in learning by doing and building small projects to solve real-world problems.
-
----
-
-### 🛠 My Skills (Learning & Exploring)
-- **Languages:** ![Python](https://shields.io)
-- **Interests:** ![AI](https://shields.io) ![GitHub](https://shields.io)
-- **Current Goal:** Automating daily tasks using Python scripts.
+## 🐍 Python Learner | 💻 Beginner Coder | 🚀 Day 1 Journey
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://vercel.app)
+### 🔭 What I'm working on:
+- 🎯 Learning Python from scratch
+- 📝 Building small projects
+- ☕ One project per day!
+
+---
+
+### 🚀 My Projects:
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🃏 Joke Generator | Random tech jokes in Python | [View Code](https://github.com/mosha-me/py) |
+
+---
+
+### 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosha-me&show_icons=true&theme=radical)
+
+---
+
+### 📈 Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosha-me&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me:
-[Facebook](https://www.facebook.com/share/18TiFZDMWa/) | [Instagram](https://www.instagram.com/mosha.me?igsh=Z2t5OXRuYW54c3lo) 
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18oiw2jH4R/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mosha.me?igsh=Z2t5OXRuYW54c3lo)
+
+---
+
+⭐ **From [MOSHA ME](https://github.com/mosha-me)**
