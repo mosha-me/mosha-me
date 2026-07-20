@@ -15,6 +15,22 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mosha-me&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+| Project Name | Description | Language | Link |
+| :--- | :--- | :---: | :---: |
+| 🔢 Letter Counter | A tool to count letters in a text | Python | [View Project](https://github.com/mosha-me/letter-counter) |
+| 🔠 Text-to-Morse-Code | Convert plain text to Morse code | Python | [View Project](https://github.com/mosha-me/Text-to-Morse-Code) |
+| 🪨 ROCK-PAPER-SCISSORS | Classic Rock Paper Scissors game | Python | [View Project](https://github.com/mosha-me/ROCK-PAPER-SCISSORS) |
+| ⚡ Internet-Speed-Tester | Check internet connection speed | Python | [View Project](https://github.com/mosha-me/Internet-Speed-Tester) |
+| 👤 Username-Generator | Generate random creative usernames | Python | [View Project](https://github.com/mosha-me/username-generator-) |
+| 🎨 Random-Color-Generator | Generates random hex color codes | Python | [View Project](https://github.com/mosha-me/Random-Color-Generator) |
+| ☁️ Weather-app | Real-time weather forecasting app | Python | [View Project](https://github.com/mosha-me/Weather-app) |
+| 📏 Multi-Unit-Converter | Convert various units easily | Python | [View Project](https://github.com/mosha-me/Multi-Unit-Converter) |
+| ⏱️ Countdown-Timer | A simple countdown timer clock | Python | [View Project](https://github.com/mosha-me/Countdown-Timer) |
+| ⏰ Digital-Clock | Clean and simple digital clock | Python | [View Project](https://github.com/mosha-me/Digital-Clock) |
+| ⌨️ Typing-Speed-Tester | Test your typing words per minute | Python | [View Project](https://github.com/mosha-me/Typing-Speed-Tester) |
+| 🔑 Python_Password_Generator | Generate secure random passwords | Python | [View Project](https://github.com/mosha-me/Python_Password_Generator) |
+| 🃏 python-joke-generator | A simple random joke generator | Python | [View Project](https://github.com/mosha-me/python-joke-generator) |
 
 ---
 [![](https://komarev.com/ghpvc/?username=mosha-me&icon=0&color=0)](https://visitcount.itsvg.in)
