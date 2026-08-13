@@ -1,6 +1,10 @@
 # 👋 Hi, I'm MOSHA ME
 # 💫 About Me:
-🔭 I’m currently working on building mini projects<br>🌱 I’m currently learning Python from scratch<br>💬 Ask me about Python & AI Automation<br>⚡ Fun fact: Always exploring new tech!<br>
+⚡ Building autonomous AI Agents & scalable AI solutions
+🤖 Already built: Custom AI Chatbot
+🎯 Focus: High-impact AI projects (Showing results & demos only)
+💬 Ask me about: Python, AI Automation & Agentic Systems
+<br>
 
 
 ## 🌐 Socials:
